@@ -17,5 +17,3 @@ spec:
       containers:
       - name: docker-hello-world
         image: dperesjr/kubernetes:latest
-        ports:
-        - containerPort: 80
