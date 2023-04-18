@@ -1,4 +1,4 @@
-apiVersion: apps/v1 # versão da API
+apiVersion: v1 # versão da API
 kind: Deployment # tipo de recurso, no caso, um Deployment
 metadata: # metadados do recurso 
   name: nginx-server # nome do recurso
