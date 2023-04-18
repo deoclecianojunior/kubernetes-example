@@ -3,7 +3,7 @@ kind: Service # tipo de recurso, no caso, um Service
 metadata: # metadados do recurso
   name: docker-hello-world-svc # nome do recurso
   labels: # labels do recurso
-    app: docker-hello-world # label para identificar o svc
+    app: docker-hello-world-svc # label para identificar o svc
 spec: # especificação do recurso
   ports:
     - port: 8088
