@@ -19,7 +19,3 @@ spec:
         image: dperesjr/kubernetes:latest
         ports:
         - containerPort: 80
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
