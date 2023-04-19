@@ -9,4 +9,4 @@ spec: # especificação do recurso
     - port: 8088
       targetPort: 80
   selector: # seletor para identificar os pods/deployment que esse svc irá expor
-    app: nginx # label que identifica o pod/deployment que será exposto
+    app: docker-hello-world # label que identifica o pod/deployment que será exposto
